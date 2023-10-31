@@ -1,0 +1,7 @@
+firebase-admin
+opencv-python
+face-recognition
+python-firebase
+Pillow
+cvzone
+tk
